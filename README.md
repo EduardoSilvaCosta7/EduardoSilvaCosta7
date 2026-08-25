@@ -49,7 +49,6 @@ const eduardo = {
 ### Programação
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,php" />
 <img src="https://skillicons.dev/icons?i=python,php,js,wordpress" />
 </p>
 

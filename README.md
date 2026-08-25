@@ -57,7 +57,7 @@ const eduardo = {
 ### Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,photoshop,premiere,aftereffects" />
+  <img src="https://skillicons.dev/icons?i=,figma,photoshop,premiere,aftereffects" />
   <img src="https://cdn.simpleicons.org/davinciresolve" width="48" height="48" alt="DaVinci Resolve" />
   <img src="https://cdn.simpleicons.org/trello" width="48" height="48" alt="Trello" />
 </p>

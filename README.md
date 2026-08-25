@@ -17,10 +17,8 @@ Construindo projetos para web, explorando novas tecnologias e transformando idei
 ```javascript
 const eduardo = {
   nome: "Eduardo Silva",
-  localização: "São Paulo, Brasil",
-  formação: "Sistemas para Internet",
+  localização: "Brasil",
   foco: ["Desenvolvimento Web", "Automação", "Programação"],
-  aprendendo: ["JavaScript", "Python"],
   objetivo: "Transformar ideias em projetos reais."
 };
 ```

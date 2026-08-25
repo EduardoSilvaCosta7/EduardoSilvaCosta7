@@ -38,7 +38,7 @@ const eduardo = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Front-end
 
@@ -60,7 +60,7 @@ const eduardo = {
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 

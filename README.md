@@ -60,13 +60,4 @@ const eduardo = {
 
 ---
 
-##  GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eeduardosilvacosta6-sketch&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeduardosilvacosta6-sketch&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
 

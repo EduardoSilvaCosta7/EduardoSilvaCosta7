@@ -50,7 +50,7 @@ const eduardo = {
 <img src="https://skillicons.dev/icons?i=python,php,js,react,wordpress" />
 </p>
 
-### Ferramentas
+#### Ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,photoshop,premiere,aftereffects" />

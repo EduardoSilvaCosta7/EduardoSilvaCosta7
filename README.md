@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Olá, eu sou Eduardo 
+#  Opa, sou o Eduardo 
 
 ###  Desenvolvedor Web 
 

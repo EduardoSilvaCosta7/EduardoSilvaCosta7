@@ -4,7 +4,7 @@
 
 ###  Desenvolvedor Web 
 
-Construindo projetos para web, explorando novas tecnologias e transformando ideias em aplicações.
+Transformando problemas complexos em soluções simples.
 
 [![Portfolio](https://img.shields.io/badge/PORTFÓLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://eduardosilvacosta.com.br/)
 
